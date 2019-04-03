@@ -10,7 +10,7 @@
 
 ## API
 
-```js
+```ts
 type IVariable = Any
 
 // Group set of scenarios in one collection
