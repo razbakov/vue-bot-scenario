@@ -8,6 +8,13 @@
 - **Developer Friendly** - reqiured only knowledge of templates in Vue.js
 - **Flexible** - based on very simple concept, which can handle complex scerios by providing logical steps (yes/no conditions) and cycles (jump from one to another scenario)
 
+## Example
+
+[See scerario](scenarios/dance-events.vue)
+
+![](docs/example.gif)
+
+
 ## API
 
 ```ts
@@ -45,7 +52,3 @@ interface Play {
   id: String
 }
 ```
-
-## Example
-
-See [example of scerario](scenarios/dance-events.vue)
